@@ -8,6 +8,7 @@ You can install the package using pip:
 Copy code: #private repository
 _pip install git+https://github.com/Saba101/Validator.git
 
+
 Usage
 1. Importing the Package: _from Validator import Validator_
 
