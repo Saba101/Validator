@@ -5,7 +5,7 @@ Package Description: A Python package for validating CSV files based on JSON exp
 Installation
 You can install the package using pip:
 
-Copy code: #private repositort
+Copy code: #private repository
 _pip install git+https://github.com/Saba101/Validator.git
 
 Usage
