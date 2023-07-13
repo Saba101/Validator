@@ -1,0 +1,30 @@
+{
+  "expression": [
+    {
+      "column": "CatalogNumber",
+      "condition": "equals",
+      "value": "20220321"
+    },
+    {
+      "column": "CatalogNumber",
+      "condition": "greater_than",
+      "value": "20220321"
+    },
+    {
+      "column": "VendorProductStatus",
+      "condition": "not_equals",
+      "value": "3"
+    },
+    {
+      "column": "MfrName",
+      "condition": "equals",
+      "value": "SCALE COMPUTING"
+    }
+
+  ],
+  "logicalOperators": [
+    "OR",
+    "AND",
+    "AND"
+  ]
+}

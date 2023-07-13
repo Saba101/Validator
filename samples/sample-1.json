@@ -1,0 +1,11 @@
+{
+  "expression": [
+    {
+      "column": "CatalogNumber",
+      "condition": "equals",
+      "value": "20220321"
+    }
+
+  ],
+  "logicalOperators": []
+}

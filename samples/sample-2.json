@@ -1,0 +1,18 @@
+{
+  "expression": [
+    {
+      "column": "CatalogNumber",
+      "condition": "equals",
+      "value": "20220321"
+    },
+    {
+      "column": "MfrName",
+      "condition": "equals",
+      "value": "SCALE COMPUTING"
+    }
+
+  ],
+  "logicalOperators": [
+    "AND"
+  ]
+}
